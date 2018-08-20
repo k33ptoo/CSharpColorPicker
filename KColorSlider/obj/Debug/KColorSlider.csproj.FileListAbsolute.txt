@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\KColorSlider\KColorSlider\bin\Debug\KColorSlider.exe
+c:\users\admin\source\repos\KColorSlider\KColorSlider\bin\Debug\KColorSlider.pdb
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.csprojAssemblyReference.cache
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.Form1.resources
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.Properties.Resources.resources
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.csproj.GenerateResource.cache
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.exe
+c:\users\admin\source\repos\KColorSlider\KColorSlider\obj\Debug\KColorSlider.pdb
